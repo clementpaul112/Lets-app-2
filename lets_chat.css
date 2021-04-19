@@ -1,0 +1,21 @@
+body
+{
+	background: lightblue;
+}
+
+#username
+{
+	background: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+	width: 500px;
+	
+}
+
+#user_name
+{
+	display: inline-block;
+}
+
+
